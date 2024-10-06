@@ -9,4 +9,4 @@ notes:
 
 - the mx file has to go in /lib/firmware/postmarketos/mx140/mx/. if youre confused, i mean that it should be as "/lib/firmware/postmarketos/mx140/mx/mx"
 
-~~- the mfc* files go /lib/firmware/~~ (im seeing if this is the cause)
+~~- the mfc* files go /lib/firmware/~~ (im seeing if this is the cause for bootlooping)
