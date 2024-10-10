@@ -1,3 +1,4 @@
+# work isnt being done for now because i broke my arch linux install
 
 # postmarketOS-xcover4lte-bin
 status: bootloops 
